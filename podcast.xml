@@ -18,6 +18,30 @@
 			<height>32</height>
 		</image>
 		<item>
+			<title>Kyle Pitts: Player Spotlight</title>
+			<link>https://www.uthdynasty.com/premium-podcasts/kyle-pitts-player-spotlight/</link>
+			<dc:creator>Admin</dc:creator>
+			<pubDate>Tue, 09 Mar 2021 08:00:43 +0000</pubDate>
+			<category>2021 Rookies</category>
+			<category>Premium Podcasts</category>
+			<category>Rookie Drafts</category>
+			<guid isPermaLink="false">https://www.uthdynasty.com/?p=52225&amp;preview=true&amp;preview_id=52225</guid>
+			<post-id xmlns="com-wordpress:feed-additions:1">52225</post-id>
+			<enclosure url="https://www.dropbox.com/s/6wij4dn4o7y4xre/Kyle%20Pitts.mp3?dl=1" type="audio/mpeg" length="31960213"></enclosure>
+		</item>
+		<item>
+			<title>Rashod Bateman: Player Spotlight</title>
+			<link>https://www.uthdynasty.com/premium-podcasts/rashod-bateman-player-spotlight/</link>
+			<dc:creator>Admin</dc:creator>
+			<pubDate>Mon, 08 Mar 2021 08:01:19 +0000</pubDate>
+			<category>2021 Rookies</category>
+			<category>Premium Podcasts</category>
+			<category>Rookie Drafts</category>
+			<guid isPermaLink="false">https://www.uthdynasty.com/?p=52223&amp;preview=true&amp;preview_id=52223</guid>
+			<post-id xmlns="com-wordpress:feed-additions:1">52223</post-id>
+			<enclosure url="https://www.dropbox.com/s/cgvnkung0t9p3s0/Rashod%20Bateman.mp3?dl=1" type="audio/mpeg" length="18948726"></enclosure>
+		</item>
+		<item>
 			<title>Kadarius Toney: Player Spotlight</title>
 			<link>https://www.uthdynasty.com/premium-podcasts/kadarius-toney-player-spotlight/</link>
 			<dc:creator>Admin</dc:creator>
@@ -590,28 +614,6 @@
 			<category>UTH Academy</category>
 			<guid isPermaLink="false">https://www.uthdynasty.com/?p=51907</guid>
 			<enclosure url="https://www.dropbox.com/s/sxdi2617oh3z4wx/RB%20RU%20W15%20NFC.mp3?dl=1" type="audio/mpeg" length="63883309"></enclosure>
-		</item>
-		<item>
-			<title>UTH Film Notes Podcast: Week 14</title>
-			<link>https://www.uthdynasty.com/premium-podcasts/2020-uth-film-notes-podcast-week-14/</link>
-			<dc:creator>Admin</dc:creator>
-			<pubDate>Mon, 14 Dec 2020 05:33:38 +0000</pubDate>
-			<category>Film Sessions</category>
-			<category>Premium Podcasts</category>
-			<guid isPermaLink="false">https://www.uthdynasty.com/?p=51902</guid>
-			<enclosure url="https://www.dropbox.com/s/0ci19hn05m279x6/Film%20Notes%20W14.mp3?dl=1" type="audio/mpeg" length="147742639"></enclosure>
-		</item>
-		<item>
-			<title>The Running Back Round-Up: Week 14, AFC</title>
-			<link>https://www.uthdynasty.com/premium-podcasts/2020-the-running-back-round-up-week-14-afc/</link>
-			<dc:creator>Chad Parsons</dc:creator>
-			<pubDate>Wed, 09 Dec 2020 06:18:24 +0000</pubDate>
-			<category>2020 Rookies</category>
-			<category>Premium Podcasts</category>
-			<category>Strategy</category>
-			<category>UTH Academy</category>
-			<guid isPermaLink="false">https://www.uthdynasty.com/?p=51879</guid>
-			<enclosure url="https://www.dropbox.com/s/v343y24nc95tp3j/AFC%20W14.mp3?dl=1" type="audio/mpeg" length="77126764"></enclosure>
 		</item>
 		<item>
 			<title>Dynasty Roster Tiers, Mindset, Approach</title>

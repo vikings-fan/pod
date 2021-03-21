@@ -18,6 +18,28 @@
 			<height>32</height>
 		</image>
 		<item>
+			<title>Kenny Golladay Player Spotlight</title>
+			<link>https://www.uthdynasty.com/premium-podcasts/kenny-golladay-player-spotlight/</link>
+			<dc:creator>Admin</dc:creator>
+			<pubDate>Sun, 21 Mar 2021 07:00:53 +0000</pubDate>
+			<category>Premium Podcasts</category>
+			<category>Trades</category>
+			<guid isPermaLink="false">https://www.uthdynasty.com/?p=52280&amp;preview=true&amp;preview_id=52280</guid>
+			<post-id xmlns="com-wordpress:feed-additions:1">52280</post-id>
+			<enclosure url="https://www.dropbox.com/s/otj2czrorgvo23n/Kenny%20Golladay.mp3?dl=1" type="audio/mpeg" length="18327430"></enclosure>
+		</item>
+		<item>
+			<title>NFL Free Agency: Will Fuller, Jared Cook, Kenyan Drake, Gerald Everett</title>
+			<link>https://www.uthdynasty.com/premium-podcasts/nfl-free-agency-will-fuller-jared-cook-kenyan-drake-gerald-everett/</link>
+			<dc:creator>Admin</dc:creator>
+			<pubDate>Fri, 19 Mar 2021 03:12:12 +0000</pubDate>
+			<category>Premium Podcasts</category>
+			<category>Trades</category>
+			<guid isPermaLink="false">https://www.uthdynasty.com/?p=52276&amp;preview=true&amp;preview_id=52276</guid>
+			<post-id xmlns="com-wordpress:feed-additions:1">52276</post-id>
+			<enclosure url="https://www.dropbox.com/s/b24h2tki5ur82sv/Will%20Fuller%2C%20Jared%20Cook%2C%20Gerald%20Everett%2C%20Kenyan%20Drake.mp3?dl=1" type="audio/mpeg" length="39007632"></enclosure>
+		</item>
+		<item>
 			<title>The Parallels of NFL vs. Dynasty Team Building: Part 2</title>
 			<link>https://www.uthdynasty.com/premium-podcasts/the-parallels-of-nfl-vs-dynasty-team-building-part-2/</link>
 			<dc:creator>Admin</dc:creator>
@@ -594,25 +616,6 @@
 			<category>Premium Podcasts</category>
 			<guid isPermaLink="false">https://www.uthdynasty.com/?p=51963</guid>
 			<enclosure url="https://www.dropbox.com/s/6929r47jrk244pp/Jonnu%20Smith.mp3?dl=1" type="audio/mpeg" length="10534581"></enclosure>
-		</item>
-		<item>
-			<title>2021 UTH Premium Shows</title>
-			<link>https://www.uthdynasty.com/premium-podcasts/2021-uth-premium-shows/</link>
-			<dc:creator>Admin</dc:creator>
-			<pubDate>Fri, 01 Jan 2021 05:24:07 +0000</pubDate>
-			<category>Premium Podcasts</category>
-			<guid isPermaLink="false">https://www.uthdynasty.com/?p=51959</guid>
-			<enclosure url="https://www.dropbox.com/s/it7jc4clvt0vg6t/2021%20Start.mp3?dl=1" type="audio/mpeg" length="35950052"></enclosure>
-		</item>
-		<item>
-			<title>UTH Film Notes Podcast: Week 16</title>
-			<link>https://www.uthdynasty.com/premium-podcasts/2020-uth-film-notes-podcast-week-16/</link>
-			<dc:creator>Admin</dc:creator>
-			<pubDate>Mon, 28 Dec 2020 05:45:45 +0000</pubDate>
-			<category>Film Sessions</category>
-			<category>Premium Podcasts</category>
-			<guid isPermaLink="false">https://www.uthdynasty.com/?p=51956</guid>
-			<enclosure url="https://www.dropbox.com/s/xt3tcyot5ku7w2b/Film%20Notes%20W16.mp3?dl=1" type="audio/mpeg" length="171158176"></enclosure>
 		</item>
 		<item>
 			<title>Dynasty Roster Tiers, Mindset, Approach</title>

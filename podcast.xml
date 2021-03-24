@@ -18,6 +18,17 @@
 			<height>32</height>
 		</image>
 		<item>
+			<title>UTH Dynasty Trades Transparency Report</title>
+			<link>https://www.uthdynasty.com/premium-podcasts/uth-dynasty-trades-transparency-report/</link>
+			<dc:creator>Admin</dc:creator>
+			<pubDate>Tue, 23 Mar 2021 07:00:25 +0000</pubDate>
+			<category>Premium Podcasts</category>
+			<category>Trades</category>
+			<guid isPermaLink="false">https://www.uthdynasty.com/?p=52284&amp;preview=true&amp;preview_id=52284</guid>
+			<post-id xmlns="com-wordpress:feed-additions:1">52284</post-id>
+			<enclosure url="https://www.dropbox.com/s/ev9tqrel033tcfk/UTH%20Trades%20Transparency%20Report.mp3?dl=1" type="audio/mpeg" length="29184755"></enclosure>
+		</item>
+		<item>
 			<title>NFL Team Needs, Draft Probabilities</title>
 			<link>https://www.uthdynasty.com/premium-podcasts/nfl-team-needs-draft-probabilities/</link>
 			<dc:creator>Admin</dc:creator>
@@ -608,16 +619,6 @@
 			<category>Premium Podcasts</category>
 			<guid isPermaLink="false">https://www.uthdynasty.com/?p=51965</guid>
 			<enclosure url="https://www.dropbox.com/s/0jjytezasidl2je/David%20Njoku.mp3?dl=1" type="audio/mpeg" length="10534581"></enclosure>
-		</item>
-		<item>
-			<title>UTH Film Notes Podcast: Week 17</title>
-			<link>https://www.uthdynasty.com/premium-podcasts/2020-uth-film-notes-podcast-week-17/</link>
-			<dc:creator>Admin</dc:creator>
-			<pubDate>Mon, 04 Jan 2021 05:49:06 +0000</pubDate>
-			<category>Film Sessions</category>
-			<category>Premium Podcasts</category>
-			<guid isPermaLink="false">https://www.uthdynasty.com/?p=51972</guid>
-			<enclosure url="https://www.dropbox.com/s/ohv6x15imxti2mj/Film%20Notes%20W17.mp3?dl=1" type="audio/mpeg" length="117877784"></enclosure>
 		</item>
 		<item>
 			<title>Dynasty Roster Tiers, Mindset, Approach</title>

@@ -18,6 +18,38 @@
 			<height>32</height>
 		</image>
 		<item>
+			<title>UTH Film Notes: Week 3 (Main Show)</title>
+			<link>https://www.uthdynasty.com/premium-podcasts/2021-uth-film-notes-week-3-part-2/</link>
+			<dc:creator>Admin</dc:creator>
+			<pubDate>Mon, 27 Sep 2021 08:00:45 +0000</pubDate>
+			<category>Film Sessions</category>
+			<category>Premium Podcasts</category>
+			<guid isPermaLink="false">https://www.uthdynasty.com/?p=52964&amp;preview=true&amp;preview_id=52964</guid>
+			<post-id xmlns="com-wordpress:feed-additions:1">52964</post-id>
+			<enclosure url="https://www.dropbox.com/s/o0whi6apn4rz06w/Film%20W3.mp3?dl=1" type="audio/mpeg" length="141221849"></enclosure>
+		</item>
+		<item>
+			<title>Final Thoughts: Week 3</title>
+			<link>https://www.uthdynasty.com/premium-podcasts/2021-final-thoughts-week-3/</link>
+			<dc:creator>Admin</dc:creator>
+			<pubDate>Sat, 25 Sep 2021 03:45:06 +0000</pubDate>
+			<category>Premium Podcasts</category>
+			<guid isPermaLink="false">https://www.uthdynasty.com/?p=52961&amp;preview=true&amp;preview_id=52961</guid>
+			<post-id xmlns="com-wordpress:feed-additions:1">52961</post-id>
+			<enclosure url="https://www.dropbox.com/s/m0dgeyfb6rpt466/Final%20Thoughts%20W3.mp3?dl=1" type="audio/mpeg" length="50361493"></enclosure>
+		</item>
+		<item>
+			<title>UTH Film Notes: Week 3, Part 1</title>
+			<link>https://www.uthdynasty.com/premium-podcasts/2021-uth-film-notes-week-3-part-1/</link>
+			<dc:creator>Admin</dc:creator>
+			<pubDate>Fri, 24 Sep 2021 17:00:02 +0000</pubDate>
+			<category>Film Sessions</category>
+			<category>Premium Podcasts</category>
+			<guid isPermaLink="false">https://www.uthdynasty.com/?p=52960&amp;preview=true&amp;preview_id=52960</guid>
+			<post-id xmlns="com-wordpress:feed-additions:1">52960</post-id>
+			<enclosure url="https://www.dropbox.com/s/yqgp3ac84mzdya2/UTH%20Film%20W3%20P1.mp3?dl=1" type="audio/mpeg" length="20596948"></enclosure>
+		</item>
+		<item>
 			<title>49ers Running Backs: State of the Union</title>
 			<link>https://www.uthdynasty.com/premium-podcasts/49ers-running-backs-state-of-the-union/</link>
 			<dc:creator>Admin</dc:creator>
@@ -1006,30 +1038,6 @@
 			<guid isPermaLink="false"></guid>
 			<post-id xmlns="com-wordpress:feed-additions:1"></post-id>
 			<enclosure url="https://www.dropbox.com/s/u5o86r7gz5e66yh/The%20QB%20WR%20Connection.mp3?dl=1" type="audio/mpeg" length="38632096"></enclosure>
-		</item>
-		<item>
-			<title>RB Profiles, Ratios, and Regression</title>
-			<link></link>
-			<dc:creator>Admin</dc:creator>
-			<pubDate>Thu, 10 Jun 2021 00:00:00</pubDate>
-			<category>Premium Podcasts</category>
-			<category>Strategy</category>
-			<category></category>
-			<guid isPermaLink="false"></guid>
-			<post-id xmlns="com-wordpress:feed-additions:1"></post-id>
-			<enclosure url="https://www.dropbox.com/s/j63t5ldhrwiyoj6/RB%20Profiles%20Ratios%20Regression.mp3?dl=1" type="audio/mpeg" length="17554414"></enclosure>
-		</item>
-		<item>
-			<title>Gus Edwards' New Contract: Dynasty Action Plan</title>
-			<link></link>
-			<dc:creator>Admin</dc:creator>
-			<pubDate>Tue, 08 Jun 2021 00:00:00</pubDate>
-			<category>Premium Podcasts</category>
-			<category>Strategy</category>
-			<category></category>
-			<guid isPermaLink="false"></guid>
-			<post-id xmlns="com-wordpress:feed-additions:1"></post-id>
-			<enclosure url="https://www.dropbox.com/s/g3gnn0at7p7oqd0/Gus%20Edwards%20JK%20Dobbins%20Dynasty.mp3?dl=1" type="audio/mpeg" length="18956876"></enclosure>
 		</item>
 		<item>
 			<title>2021 NFL Draft Recap, Big Board Preview: WR</title>

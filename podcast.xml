@@ -18,6 +18,17 @@
 			<height>32</height>
 		</image>
 		<item>
+			<title>UTH Film Notes: Week 11 (Main Show)</title>
+			<link>https://www.uthdynasty.com/premium-podcasts/2021-uth-film-notes-week-11-main/</link>
+			<dc:creator>Admin</dc:creator>
+			<pubDate>Mon, 22 Nov 2021 06:15:20 +0000</pubDate>
+			<category>Film Sessions</category>
+			<category>Premium Podcasts</category>
+			<guid isPermaLink="false">https://www.uthdynasty.com/?p=53264&amp;preview=true&amp;preview_id=53264</guid>
+			<post-id xmlns="com-wordpress:feed-additions:1">53264</post-id>
+			<enclosure url="https://www.dropbox.com/s/o3aa64bz4jdoppv/Film%20Notes%20W11.mp3?dl=1" type="audio/mpeg" length="65834342"></enclosure>
+		</item>
+		<item>
 			<title>Dynasty Trading Tips and Tactics: Playing the Hits</title>
 			<link>https://www.uthdynasty.com/premium-podcasts/dynasty-trading-tips-and-tactics-playing-the-hits/</link>
 			<dc:creator>Admin</dc:creator>
@@ -1506,18 +1517,6 @@
 			<guid isPermaLink="false"></guid>
 			<post-id xmlns="com-wordpress:feed-additions:1"></post-id>
 			<enclosure url="https://www.dropbox.com/s/222n8wbi2hpbx9v/WR%20ADP.mp3?dl=1" type="audio/mpeg" length="22826342"></enclosure>
-		</item>
-		<item>
-			<title>Recent ADP Movers: RB</title>
-			<link></link>
-			<dc:creator>Admin</dc:creator>
-			<pubDate>Fri, 02 Jul 2021 00:00:00</pubDate>
-			<category>Premium Podcasts</category>
-			<category>Strategy</category>
-			<category></category>
-			<guid isPermaLink="false"></guid>
-			<post-id xmlns="com-wordpress:feed-additions:1"></post-id>
-			<enclosure url="https://www.dropbox.com/s/l843ej2hpzz1byo/RB%20ADP.mp3?dl=1" type="audio/mpeg" length="33066760"></enclosure>
 		</item>
 		<item>
 			<title>2021 NFL Draft Recap, Big Board Preview: WR</title>
